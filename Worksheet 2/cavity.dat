@@ -1,0 +1,14 @@
+#--------------------------------------------
+#            Parameters to be read             
+#--------------------------------------------
+
+#Please note that velocityWall refers to the lid velocity in X direction
+
+xlength			        50
+velocityWall		    0.001
+Re			            0.1
+timesteps		        50
+timestepsPerPlotting	5
+
+
+
